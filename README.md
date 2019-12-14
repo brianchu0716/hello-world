@@ -1,2 +1,4 @@
 # hello-world
-Just a trial repository
+Hi humans!
+
+Brian Chu here, I like Koda Kumi(My fav. artist).
